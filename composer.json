@@ -2,7 +2,6 @@
     "name": "andrew/hello-world",
     "description": "A test composer package",
     "type": "library",
-    "license": "1",
     "authors": [
         {
             "name": "Andrew Tettey",
